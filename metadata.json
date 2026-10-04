@@ -1,0 +1,6 @@
+{
+  "name": "Mujhe Kaun Banega",
+  "description": "Interactive learning adventure for children aged 2–5 exploring professions, empathy, and real-world problem-solving in Little Town.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
